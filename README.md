@@ -6,8 +6,9 @@ I am a **Computer Science student** at Center For Advanced Learning. I am curren
 * **Tools:** VS Code, Git, Terminal
 * **Soft Skills:** Problem Solving, Teamwork
 
-![Cyber Security Logo](blob:https://gemini.google.com/d1a06c34-da87-4f24-951c-429f341e38dd)
+![Cyber Security](https://www.ufinet.com/wp-content/uploads/2025/02/shutterstock_2510584693-1.jpg)
 
 ## Contact
-**Email**: vang55@calcharter.org
-**Phone**: 971-***-****
+* **Email**: vang55@calcharter.org
+* **Phone**: 971-***-****
+* **GitHub** [tylerVang](https://github.com/Tvangs5)

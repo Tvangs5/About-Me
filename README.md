@@ -18,5 +18,5 @@ I am working on a file named `README.md` to learn how to collaborate with other 
 
 ## Contact
 * **Email**: vang55@calcharter.org
-* **Phone**: 971-***-****
+* **Phone**: 971-ooo-ooo
 * **GitHub** [tylerVang](https://github.com/Tvangs5)

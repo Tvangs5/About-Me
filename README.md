@@ -11,6 +11,10 @@ I am a **Computer Science student** at Center For Advanced Learning. I am curren
 ## Learning Resources
 1. [FreeCodeCamp](https://www.freecodecamp.org)
 2. [MDN Web Docs](https://developer.mozilla.org)
+3. [CodeAcademy](https://www.codecademy.com/)
+
+### Current Project
+I am working on a file named `README.md` to learn how to collaborate with other people.
 
 ## Contact
 * **Email**: vang55@calcharter.org
